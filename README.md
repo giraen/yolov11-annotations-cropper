@@ -25,3 +25,5 @@ The script assumes that you have the following file structure:
 ├── README.md
 └── .gitignore
 ```
+
+The downloaded zip from roboflow should be extracted inside <code>raw-datasets/</code> folder
